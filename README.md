@@ -1,5 +1,5 @@
 # 💫 Hello World I'm Ayush
-I'm currently working in Auro Digital<br>I'm currently learning SQL.<br>Ask me about NodeJS ,  React.js , Express.js, MongoDb<br>Reach me at : ayush.kumarmishra.mec21@itbhu.ac.in<br>
+I'm currently working in Auro Digital<br>I'm currently learning SQL.<br>Ask me about Java ,  Python , Redis, SQL<br>Reach me at : ayushmi274@gmail.com<br>
 
 
 ## 🌐 Socials:
